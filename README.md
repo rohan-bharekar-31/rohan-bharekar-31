@@ -41,6 +41,13 @@ I'm a Computer Engineering student with a strong passion for full-stack developm
 
 ---
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rohan-bharekar-31?ext=contest)
+
+---
+---
+
 ## 📈 GitHub Stats
 
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan-bharekar-31&show_icons=true&theme=radical)
